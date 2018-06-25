@@ -1,0 +1,18 @@
+C:\Users\Пользователь\Desktop\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Пользователь\Desktop\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Пользователь\Desktop\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\Users\Пользователь\Desktop\Lab1\bin\Debug\Lab1.exe
+C:\Users\Пользователь\Desktop\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Пользователь\Desktop\Lab1\obj\Debug\Lab1.exe
+C:\Users\Пользователь\Desktop\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Пользователь\Desktop\Отстойник 4 семестр\Программирование\L1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\Пользователь\Desktop\Отстойник 4 семестр\Программирование\L1\Lab1\obj\Debug\Lab1.exe
+C:\Users\Пользователь\Desktop\Отстойник 4 семестр\Программирование\L1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\Пользователь\Desktop\Отстойник 4 семестр\Программирование\L1\Lab1\bin\Debug\Lab1.exe
+C:\Users\Пользователь\Desktop\Отстойник 4 семестр\Программирование\L1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\Пользователь\Desktop\Отстойник 4 семестр\Программирование\L1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\Users\Пользователь\Desktop\Отстойник 4 семестр\Программирование\L1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\Пользователь\Desktop\Отстойник 4 семестр\Программирование\L1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Отстойник 4 семестр\Программирование\L1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
