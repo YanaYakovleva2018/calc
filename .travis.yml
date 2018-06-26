@@ -1,1 +1,13 @@
 language: csharp
+solution: laba_2.sln
+install:
+  - nuget restore laba_2.sln
+  - nuget install NUnit.Runners -Version 3.8.0 -OutputDirectory testrunner
+script:
+  - msbuild /p:Configuration=Release Lab1.sln
+  - mono calc/UnitTestProject_Lab1/bin/Debug/Lab1.exe ./UnitTestProject1/bin/Debug/UnitTestProject1.dll
+  
+notifications:
+  email:
+    on_success: change
+    on_failure: always
